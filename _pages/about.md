@@ -26,7 +26,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
-  <li><strong style="font-family: Consolas;">[02/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TMM:</b> "Scale Up Composed Image Retrieval Learning via Modification Text Generatio."</li>
+  <li><strong style="font-family: Consolas;">[02/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TMM:</b> "Scale Up Composed Image Retrieval Learning via Modification Text Generatio." [<a href="https://arxiv.org/pdf/2504.05316">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[01/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICLR'25:</b> "Image-level Memorization Detection via Inversion-based Inference Perturbation." [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Delighted to have received the First Prize in the 2024 Graduate Academic Forum at UCAS!</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "DOGE: Towards Versatile Visual Document Grounding and Referring." [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
@@ -102,6 +102,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <i>in 13th International Conference on Learning Representations (<b>ICLR 2025</b>)</i>. 
       <br>
       [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:QLPWAqSZxR0J:scholar.google.com/&output=citation&scisdr=ClGb7WsWEN-gr0Eirag:AFWwaeYAAAAAZ_kktahGScYdEdMt-m9-IXA1W5Q&scisig=AFWwaeYAAAAAZ_kktfNDGn7BYkcxt6KPJ9kSVmo&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>]
     </td>
   </tr>
 
@@ -184,14 +185,16 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 # 🎖 Services
 - Invited Reviewer:
-  - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025, ICDE'2025, ICML'2025.
+  - ICDE'2025, ICML'2025, ACL'2025 Feb ARR, ICCV'2025, NeurIPS'2025.
+  - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025.
   <!-- - AIM-FM workshop@NeurIPS'2024. -->
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
   - Transactions on Machine Learning Research (TMLR).
 - Teaching Assistant:
-  - CityU, [CS1315 Computer Programming](https://www.cityu.edu.hk/catalogue/ug/current/course/CS1315.htm), 2024 Fall.
-  - CityU, [CS1302 Introduction to Computer Programming](https://www.cityu.edu.hk/catalogue/ug/202021/course/CS1302.htm), 2024 Spring.
+  - CityU, [CS1302 Introduction to Computer Programming](https://www.cityu.edu.hk/catalogue/ug/202021/course/CS1302.htm), 2025 Spring.
   - CityU, [CS5481 Data Engineering](https://www.cityu.edu.hk/catalogue/pg/202425/course/CS5481.htm), 2025 Fall.
+  - CityU, [CS1302 Introduction to Computer Programming](https://www.cityu.edu.hk/catalogue/ug/202021/course/CS1302.htm), 2024 Spring.
+  - CityU, [CS1315 Computer Programming](https://www.cityu.edu.hk/catalogue/ug/current/course/CS1315.htm), 2024 Fall.
 
 
 # 💬 Talks

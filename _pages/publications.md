@@ -68,6 +68,27 @@ author_profile: true
       <i>in 13th International Conference on Learning Representations (<b>ICLR 2025</b>)</i>. 
       <br>
       [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:QLPWAqSZxR0J:scholar.google.com/&output=citation&scisdr=ClGb7WsWEN-gr0Eirag:AFWwaeYAAAAAZ_kktahGScYdEdMt-m9-IXA1W5Q&scisig=AFWwaeYAAAAAZ_kktfNDGn7BYkcxt6KPJ9kSVmo&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>]
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Scale Up Composed Image Retrieval Learning via Modification Text Generation.</b> 
+      <br>
+      Yinan Zhou, Yaxiong Wang, <u>Haokun Lin</u>, Chen Ma, Li Zhu, Zhedong Zheng,
+      <br>
+      <i>in IEEE Transactions on Multimedia (<b>TMM</b>)</i>. 
+      <br>
+      [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
+      [<a href="https://arxiv.org/abs/2504.05316">arXiv</a>]
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:oOCvJsw6D8kJ:scholar.google.com/&output=citation&scisdr=ClGb7WsQEN-gr0EgrNc:AFWwaeYAAAAAZ_kmtNfTUx-kw70UdjF2CO_dTX8&scisig=AFWwaeYAAAAAZ_kmtL72tIem_smzFok4QHYPfz8&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>]
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">

@@ -26,6 +26,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+  <li><strong style="font-family: Consolas;">[05/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">Preprint:</b> "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation." [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[02/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TMM:</b> "Scale Up Composed Image Retrieval Learning via Modification Text Generatio." [<a href="https://arxiv.org/pdf/2504.05316">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[01/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICLR'25:</b> "Image-level Memorization Detection via Inversion-based Inference Perturbation." [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Delighted to have received the First Prize in the 2024 Graduate Academic Forum at UCAS!</li>
@@ -83,8 +84,29 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <i>in IEEE / CVF Computer Vision and Pattern Recognition Conference 2024 (<b>CVPR 2024</b>).</i>
       <br>
       [<a href="https://arxiv.org/pdf/2403.07839">PDF</a>]
-      [<a href="https://arxiv.org/abs/2403.07839">arXiv</a>] 
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:8JMVX1X1EywJ:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5qgY:AFWwaeYAAAAAZ_t_sgZf0jXNAehvp4b2wptIGY0&scisig=AFWwaeYAAAAAZ_t_snJf8JYEvv0mKJP1MpwYz5s&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="https://arxiv.org/abs/2403.07839">arXiv</a>]
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:8JMVX1X1EywJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELD3-YZ4C40:AAZF9b8AAAAAaER-E42n-faXTBB1uSdbgVA5d4s&scisig=AAZF9b8AAAAAaER-E81HajPXvjd6-r7QwOr7Mjg&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+    </td>
+  </tr>
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation.</b> 
+      <br>
+      <u>Haokun Lin*</u>, Teng Wang*, Yixiao Ge^, Yuying Ge, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun, Ying Shan,
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
+      [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
+      [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
+      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>]
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
     </td>
   </tr>
 

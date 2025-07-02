@@ -80,6 +80,26 @@ author_profile: true
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>DOGE: Towards Versatile Visual Document Grounding and Referring.</b>
+      <br>
+      Yinan Zhou*, Yuxin Chen*, <u>Haokun Lin</u>, Yichen Wu, Shuyu Yang, Li Zhu, Zhongang Qi, Chen Ma, Ying Shan.
+      <br>
+      <i>in IEEE / CVF International Conference on Computer Vision 2025 (<b>ICCV 2025</b>)</i>. 
+      <br>
+      [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]
+      [<a href="https://arxiv.org/abs/2411.17125">arXiv</a>]
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DjTyjQjmnM0J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGpKM:AFWwaeYAAAAAZ_uAvKMkwoXdxdqDzpd4Arf1M7c&scisig=AFWwaeYAAAAAZ_uAvBdls6PmZoUbq32URrRMRPg&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>Scale Up Composed Image Retrieval Learning via Modification Text Generation.</b> 
       <br>
       Yinan Zhou, Yaxiong Wang, <u>Haokun Lin</u>, Chen Ma, Li Zhu, Zhedong Zheng,
@@ -160,22 +180,4 @@ author_profile: true
     </td> -->
   </tr>
 
-  <tr>
-    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>DOGE: Towards Versatile Visual Document Grounding and Referring.</b>
-      <br>
-      Yinan Zhou*, Yuxin Chen*, <u>Haokun Lin</u>, Shuyu Yang, Li Zhu, Zhongang Qi, Chen Ma, Ying Shan.
-      <br>
-      <i>Preprint</i>
-      <br>
-      [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]
-      [<a href="https://arxiv.org/abs/2411.17125">Arxiv</a>]
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DjTyjQjmnM0J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGpKM:AFWwaeYAAAAAZ_uAvKMkwoXdxdqDzpd4Arf1M7c&scisig=AFWwaeYAAAAAZ_uAvBdls6PmZoUbq32URrRMRPg&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
-    </td>
-    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/.png">
-      <img src='/images/.png' width="300">
-      </a>
-    </td> -->
-  </tr>
 </table>

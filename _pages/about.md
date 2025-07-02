@@ -26,6 +26,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+  <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICCV'25:</b> "DOGE: Towards Versatile Visual Document Grounding and Referring." [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[05/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">Preprint:</b> "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation." [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[02/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TMM:</b> "Scale Up Composed Image Retrieval Learning via Modification Text Generatio." [<a href="https://arxiv.org/pdf/2504.05316">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[01/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICLR'25:</b> "Image-level Memorization Detection via Inversion-based Inference Perturbation." [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]</li>
@@ -125,6 +126,25 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
       [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:QLPWAqSZxR0J:scholar.google.com/&output=citation&scisdr=ClGb7WsaEJj5ikR5wk0:AFWwaeYAAAAAZ_t_2kwQyRuZ_GFWpFMIJGCFa5g&scisig=AFWwaeYAAAAAZ_t_2tyVM3U6q28uzR1k11m-W70&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+    </td>
+  </tr>
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>DOGE: Towards Versatile Visual Document Grounding and Referring.</b> 
+      <br>
+      Yinan Zhou*, Yuxin Chen*, <u>Haokun Lin</u>, Yichen Wu, Shuyu Yang, Li Zhu, Zhongang Qi, Chen Ma, Ying Shan.
+      <br>
+      <i>in IEEE / CVF International Conference on Computer Vision 2025 (<b>ICCV 2025</b>)</i>. 
+      <br>
+      [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]
+      [<a href="https://arxiv.org/abs/2411.17125">arXiv</a>]
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DjTyjQjmnM0J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGpKM:AFWwaeYAAAAAZ_uAvKMkwoXdxdqDzpd4Arf1M7c&scisig=AFWwaeYAAAAAZ_uAvBdls6PmZoUbq32URrRMRPg&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
     </td>
   </tr>
 

@@ -47,7 +47,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 
 # 🎓 Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=7DnpUlIAAAAJ))
-($\*$: co-first author;  ^: corresponding author)
+(\*: co-first author;  ^: corresponding author)
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;margin-top:-1.5em;font-size:0.95em;">
   <tr>
     <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">

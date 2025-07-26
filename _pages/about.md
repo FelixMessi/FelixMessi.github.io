@@ -26,12 +26,12 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
-  <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICCV'25:</b> "DOGE: Towards Versatile Visual Document Grounding and Referring." [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
-  <li><strong style="font-family: Consolas;">[05/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">Preprint:</b> "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation." [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICCV'25:</b> "DOGR: Towards Versatile Visual Document Grounding and Referring." [<a href="https://github.com/zyinan99/DOGR">Code</a>/<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[05/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation." [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[02/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TMM:</b> "Scale Up Composed Image Retrieval Learning via Modification Text Generatio." [<a href="https://arxiv.org/pdf/2504.05316">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[01/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICLR'25:</b> "Image-level Memorization Detection via Inversion-based Inference Perturbation." [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Delighted to have received the First Prize in the 2024 Graduate Academic Forum at UCAS!</li>
-  <li><strong style="font-family: Consolas;">[11/2024]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "DOGE: Towards Versatile Visual Document Grounding and Referring." [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[11/2024]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "DOGR: Towards Versatile Visual Document Grounding and Referring." [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2024]</strong>  🚀 <b style="color: rgb(231, 165, 65);">Award:</b> Honored to be selected as a Top Reviewer at NeurIPS 2024!</li>
  <li><strong style="font-family: Consolas;">[09/2024]</strong>  🎉 <b style="color: rgb(231, 165, 65);">NeurIPS'24 Oral:</b> "DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs." Big Congs! 🔥🔥🔥 [<a href="https://github.com/Hsu1023/DuQuant">Code</a>/<a href="https://arxiv.org/pdf/2406.01721">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[07/2024]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ECCV'24:</b> "MATHVERSE: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?" [<a href="https://github.com/ZrrSkywalker/MathVerse">Code</a>/<a href="https://arxiv.org/pdf/2403.14624">PDF</a>]</li>
@@ -136,14 +136,16 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       </a>
     </td> -->
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-       <b>DOGE: Towards Versatile Visual Document Grounding and Referring.</b> 
+       <b>DOGR: Towards Versatile Visual Document Grounding and Referring.</b> 
       <br>
-      Yinan Zhou*, Yuxin Chen*, <u>Haokun Lin</u>, Yichen Wu, Shuyu Yang, Li Zhu, Zhongang Qi, Chen Ma, Ying Shan.
+      Yinan Zhou*, Yuxin Chen*, <u>Haokun Lin</u>, Yichen Wu, Shuyu Yang, Zhongang Qi, Chen Ma, Li Zhu, Ying Shan.
       <br>
       <i>in IEEE / CVF International Conference on Computer Vision 2025 (<b>ICCV 2025</b>)</i>. 
       <br>
       [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]
       [<a href="https://arxiv.org/abs/2411.17125">arXiv</a>]
+      [<a href="https://zyinan99.github.io/">Project</a>]
+      [<a href="https://github.com/zyinan99/DOGR">Github</a>]
       [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DjTyjQjmnM0J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGpKM:AFWwaeYAAAAAZ_uAvKMkwoXdxdqDzpd4Arf1M7c&scisig=AFWwaeYAAAAAZ_uAvBdls6PmZoUbq32URrRMRPg&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
     </td>
   </tr>

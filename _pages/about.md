@@ -69,7 +69,20 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       [<a href="https://github.com/Hsu1023/DuQuant">Github</a>]
       [<a href="https://mp.weixin.qq.com/s/lM4HeylIivW8c2o5f6J8wg">QbitAI/量子位</a>] 
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7ed_gRMZ2K8J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5kvs:AFWwaeYAAAAAZ_t_ivuNiaHr_MEN49QUocTVDlA&scisig=AFWwaeYAAAAAZ_t_isLaMkGx5aFWqySHBsqSer8&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a> -->
-      [<a href="./_bib/DuQuant.bib" download>bibtex</a>]
+      [<a href="https://github.com/FelixMessi/FelixMessi.github.io/blob/main/_pages/_bib/DuQuant.bib">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@inproceedings{lin2024duquant, \n
+  title={DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs}, \n
+  author={Haokun Lin and Haobo Xu and Yichen Wu and Jingzhi Cui and Yingtao Zhang and Linzhan Mou and Linqi Song and Zhenan Sun and Ying Wei}, \n
+  booktitle={NeurIPS}, \n
+  year={2024} \n
+}`;
+          const newWindow = window.open("", "_blank");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
   </tr>
 

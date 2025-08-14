@@ -31,7 +31,23 @@ author_profile: true
       [<a href="https://duquant.github.io/">Project</a>]
       [<a href="https://github.com/Hsu1023/DuQuant">Github</a>]
       [<a href="https://mp.weixin.qq.com/s/lM4HeylIivW8c2o5f6J8wg">QbitAI/量子位</a>] 
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7ed_gRMZ2K8J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5kvs:AFWwaeYAAAAAZ_t_ivuNiaHr_MEN49QUocTVDlA&scisig=AFWwaeYAAAAAZ_t_isLaMkGx5aFWqySHBsqSer8&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7ed_gRMZ2K8J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5kvs:AFWwaeYAAAAAZ_t_ivuNiaHr_MEN49QUocTVDlA&scisig=AFWwaeYAAAAAZ_t_isLaMkGx5aFWqySHBsqSer8&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@article{lin2024duquant,\n
+  title={Duquant: Distributing outliers via dual transformation makes stronger quantized llms},\n
+  author={Lin, Haokun and Xu, Haobo and Wu, Yichen and Cui, Jingzhi and Zhang, Yingtao and Mou, Linzhan and Song, Linqi and Sun, Zhenan and Wei, Ying},\n
+  journal={Advances in Neural Information Processing Systems},\n
+  volume={37},\n
+  pages={87766--87800},\n
+  year={2024}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -50,7 +66,21 @@ author_profile: true
       <br>
       [<a href="https://arxiv.org/pdf/2403.07839">PDF</a>]
       [<a href="https://arxiv.org/abs/2403.07839">arXiv</a>] 
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:8JMVX1X1EywJ:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5qgY:AFWwaeYAAAAAZ_t_sgZf0jXNAehvp4b2wptIGY0&scisig=AFWwaeYAAAAAZ_t_snJf8JYEvv0mKJP1MpwYz5s&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@inproceedings{lin2024mope,\n
+  title={Mope-clip: Structured pruning for efficient vision-language models with module-wise pruning error metric},\n
+  author={Lin, Haokun and Bai, Haoli and Liu, Zhili and Hou, Lu and Sun, Muyi and Song, Linqi and Wei, Ying and Sun, Zhenan},\n
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},\n
+  pages={27370--27380},\n
+  year={2024}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -73,7 +103,20 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
       [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>]
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@article{lin2025toklip,\n
+  title={Toklip: Marry visual tokens to clip for multimodal comprehension and generation},\n
+  author={Lin, Haokun and Wang, Teng and Ge, Yixiao and Ge, Yuying and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan and Shan, Ying},\n
+  journal={arXiv preprint arXiv:2505.05422},\n
+  year={2025}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -91,7 +134,20 @@ author_profile: true
       <i>in 13th International Conference on Learning Representations (<b>ICLR 2025</b>)</i>. 
       <br>
       [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:QLPWAqSZxR0J:scholar.google.com/&output=citation&scisdr=ClGb7WsaEJj5ikR5wk0:AFWwaeYAAAAAZ_t_2kwQyRuZ_GFWpFMIJGCFa5g&scisig=AFWwaeYAAAAAZ_t_2tyVM3U6q28uzR1k11m-W70&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@@inproceedings{jiang2025image,\n
+  title={Image-level Memorization Detection via Inversion-based Inference Perturbation},\n
+  author={Jiang, Yue and Lin, Haokun and Bai, Yang and Peng, Bo and Liu, Zhili and Lyu, Yueming and Yang, Yong and Dong, Jing and others},\n
+  booktitle={The Thirteenth International Conference on Learning Representations},\n
+  year={2025}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -113,7 +169,20 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2411.17125">arXiv</a>]
       [<a href="https://zyinan99.github.io/">Project</a>]
       [<a href="https://github.com/zyinan99/DOGR">Github</a>]
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DjTyjQjmnM0J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGpKM:AFWwaeYAAAAAZ_uAvKMkwoXdxdqDzpd4Arf1M7c&scisig=AFWwaeYAAAAAZ_uAvBdls6PmZoUbq32URrRMRPg&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@article{zhou2024dogr,\n
+  title={DOGR: Towards versatile visual document grounding and referring},\n
+  author={Zhou, Yinan and Chen, Yuxin and Lin, Haokun and Yang, Shuyu and Zhu, Li and Qi, Zhongang and Ma, Chen and Shan, Ying},\n
+  journal={arXiv preprint arXiv:2411.17125},\n
+  year={2024}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -133,7 +202,21 @@ author_profile: true
       <br>
       [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
       [<a href="https://arxiv.org/abs/2504.05316">arXiv</a>]
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:oOCvJsw6D8kJ:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGWcQ:AFWwaeYAAAAAZ_uAQcRKhx48xG71FpHQIWDwjos&scisig=AFWwaeYAAAAAZ_uAQRmnKKsrbiQtB4Fb0IJeTP4&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@article{zhou2025scale,\n
+  title={Scale Up Composed Image Retrieval Learning via Modification Text Generation},\n
+  author={Zhou, Yinan and Wang, Yaxiong and Lin, Haokun and Ma, Chen and Zhu, Li and Zheng, Zhedong},\n
+  journal={arXiv preprint arXiv:2504.05316},\n
+  year={2025}\n
+}
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -156,7 +239,22 @@ author_profile: true
       [<a href="https://github.com/ZrrSkywalker/MathVerse">Github</a>]
       [<a href="https://huggingface.co/datasets/AI4Math/MathVerse">Dataset</a>]
       [<a href="https://mp.weixin.qq.com/s/gEcCi92PdMMCItFII84lcw">Synced/机器之心</a>] 
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:8_jFJjLGaXQJ:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGHzU:AFWwaeYAAAAAZ_uABzWJREnGYbVlZ3AmVBpXgRc&scisig=AFWwaeYAAAAAZ_uAB6M_J38b3iYZ_1XzTjDHKGo&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@inproceedings{zhang2024mathverse,\n
+  title={Mathverse: Does your multi-modal llm truly see the diagrams in visual math problems?},\n
+  author={Zhang, Renrui and Jiang, Dongzhi and Zhang, Yichi and Lin, Haokun and Guo, Ziyu and Qiu, Pengshuo and Zhou, Aojun and Lu, Pan and Chang, Kai-Wei and Qiao, Yu and others},\n
+  booktitle={European Conference on Computer Vision},\n
+  pages={169--186},\n
+  year={2024},\n
+  organization={Springer}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -176,7 +274,19 @@ author_profile: true
       [<a href="https://openreview.net/pdf?id=Tr0lPx9woF">PDF</a>]
       [<a href="https://openreview.net/forum?id=Tr0lPx9woF">OpenReview</a>]
       [<a href="https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning">Github</a>]
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:fHzPozkRlIAJ:scholar.google.com/&output=citation&scisdr=ClGb7WsaEJj5ikSGRYw:AFWwaeYAAAAAZ_uAXY2CO_WRj7QUgbVq5ht6HpI&scisig=AFWwaeYAAAAAZ_uAXXT9m06SL90bosUJMTfmNTY&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@inproceedings{zhangplug,\n
+  title={Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models},\n
+  author={Zhang, Yingtao and Bai, Haoli and Lin, Haokun and Zhao, Jialin and Hou, Lu and Cannistraci, Carlo Vittorio},\n
+  booktitle={The Twelfth International Conference on Learning Representations}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -196,7 +306,20 @@ author_profile: true
       [<a href="https://arxiv.org/pdf/2403.01241">PDF</a>]
       [<a href="https://arxiv.org/abs/2403.01241">arXiv</a>]
       [<a href="https://github.com/ruikangliu/IntactKV">Github</a>]
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:OkR9s_hreeMJ:scholar.google.com/&output=citation&scisdr=ClGb7WsaEJj5ikSGj3E:AFWwaeYAAAAAZ_uAl3ANRYJrWIPbZDlX9sxIqRs&scisig=AFWwaeYAAAAAZ_uAl8u3S96pRNoUs-tFPU9b4mI&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@article{liu2024intactkv,\n
+  title={Intactkv: Improving large language model quantization by keeping pivot tokens intact},\n
+  author={Liu, Ruikang and Bai, Haoli and Lin, Haokun and Li, Yuening and Gao, Han and Xu, Zhengzhuo and Hou, Lu and Yao, Jun and Yuan, Chun},\n
+  journal={arXiv preprint arXiv:2403.01241},\n
+  year={2024}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -219,7 +342,20 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
       <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qogzKLWPyMUJ:scholar.google.com/&output=citation&scisdr=CgJucTIPEP3LnlmuTwA:AAZF9b8AAAAAaJ2oVwCtZ_4Xy-aVbQWsehtAOBY&scisig=AAZF9b8AAAAAaJ2oV1u8g8mGP88KMEVjMC6YYpw&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@article{yang2025lrq,\n
+  title={LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation},\n
+  author={Yang, Lianwei and Lin, Haokun and Zhao, Tianchen and Wu, Yichen and Zhu, Hongyu and Xie, Ruiqi and Sun, Zhenan and Wang, Yu and Gu, Qingyi},\n
+  journal={arXiv preprint arXiv:2508.03485},\n
+  year={2025}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">
@@ -241,7 +377,20 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2408.03291">arXiv</a>]
       <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:hjUx9US2ziQJ:scholar.google.com/&output=citation&scisdr=CgJucTIeEJXbnlmp4Q0:AAZF9b8AAAAAaJ2v-Q3QOHYGHbwkSzLuhRjzSI0&scisig=AAZF9b8AAAAAaJ2v-YZJFXXmQ57IvKwZPmQF72E&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      [<a href="#" onclick="showBib()">bibtex</a>]
+      <script>
+        function showBib() {
+          const bib = `@article{yang2024dopq,\n
+  title={DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers},\n
+  author={Yang, Lianwei and Gong, Haisong and Lin, Haokun and Wu, Yichen and Sun, Zhenan and Gu, Qingyi},\n
+  journal={arXiv preprint arXiv:2408.03291},\n
+  year={2024}\n
+}
+}`;
+          const newWindow = window.open("", "_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">

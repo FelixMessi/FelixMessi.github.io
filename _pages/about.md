@@ -113,7 +113,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},\n
   pages={27370--27380},\n
   year={2024}\n
-}
 }`;
           const newWindow = window.open("", "mope_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -148,7 +147,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   author={Lin, Haokun and Wang, Teng and Ge, Yixiao and Ge, Yuying and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan and Shan, Ying},\n
   journal={arXiv preprint arXiv:2505.05422},\n
   year={2025}\n
-}
 }`;
           const newWindow = window.open("", "toklip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -180,7 +178,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   author={Jiang, Yue and Lin, Haokun and Bai, Yang and Peng, Bo and Liu, Zhili and Lyu, Yueming and Yang, Yong and Dong, Jing and others},\n
   booktitle={The Thirteenth International Conference on Learning Representations},\n
   year={2025}\n
-}
 }`;
           const newWindow = window.open("", "iip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -215,7 +212,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   author={Zhou, Yinan and Chen, Yuxin and Lin, Haokun and Yang, Shuyu and Zhu, Li and Qi, Zhongang and Ma, Chen and Shan, Ying},\n
   journal={arXiv preprint arXiv:2411.17125},\n
   year={2024}\n
-}
 }`;
           const newWindow = window.open("", "dogr_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -255,7 +251,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   pages={169--186},\n
   year={2024},\n
   organization={Springer}\n
-}
 }`;
           const newWindow = window.open("", "mathverse_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -288,7 +283,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   title={Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models},\n
   author={Zhang, Yingtao and Bai, Haoli and Lin, Haokun and Zhao, Jialin and Hou, Lu and Cannistraci, Carlo Vittorio},\n
   booktitle={The Twelfth International Conference on Learning Representations}\n
-}
 }`;
           const newWindow = window.open("", "plug_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -323,7 +317,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   author={Liu, Ruikang and Bai, Haoli and Lin, Haokun and Li, Yuening and Gao, Han and Xu, Zhengzhuo and Hou, Lu and Yao, Jun and Yuan, Chun},\n
   journal={arXiv preprint arXiv:2403.01241},\n
   year={2024}\n
-}
 }`;
           const newWindow = window.open("", "intactkv_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -359,7 +352,6 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   author={Yang, Lianwei and Lin, Haokun and Zhao, Tianchen and Wu, Yichen and Zhu, Hongyu and Xie, Ruiqi and Sun, Zhenan and Wang, Yu and Gu, Qingyi},\n
   journal={arXiv preprint arXiv:2508.03485},\n
   year={2025}\n
-}
 }`;
           const newWindow = window.open("", "lrq_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");

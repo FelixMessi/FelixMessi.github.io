@@ -32,9 +32,9 @@ author_profile: true
       [<a href="https://github.com/Hsu1023/DuQuant">Github</a>]
       [<a href="https://mp.weixin.qq.com/s/lM4HeylIivW8c2o5f6J8wg">QbitAI/量子位</a>] 
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7ed_gRMZ2K8J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5kvs:AFWwaeYAAAAAZ_t_ivuNiaHr_MEN49QUocTVDlA&scisig=AFWwaeYAAAAAZ_t_isLaMkGx5aFWqySHBsqSer8&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
-      [<a href="#" onclick="showBibDuQuant()">bibtex</a>]
+      [<a href="#" onclick="showBibDuquant()">bibtex</a>]
       <script>
-        function showBibDuQuant() {
+        function showBibDuquant() {
           const bib = `@article{lin2024duquant,\n
   title={Duquant: Distributing outliers via dual transformation makes stronger quantized llms},\n
   author={Lin, Haokun and Xu, Haobo and Wu, Yichen and Cui, Jingzhi and Zhang, Yingtao and Mou, Linzhan and Song, Linqi and Sun, Zhenan and Wei, Ying},\n
@@ -42,7 +42,6 @@ author_profile: true
   volume={37},\n
   pages={87766--87800},\n
   year={2024}\n
-}
 }`;
           const newWindow = window.open("", "duquant_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -66,16 +65,15 @@ author_profile: true
       <br>
       [<a href="https://arxiv.org/pdf/2403.07839">PDF</a>]
       [<a href="https://arxiv.org/abs/2403.07839">arXiv</a>] 
-      [<a href="#" onclick="showBibMoPE()">bibtex</a>]
+      [<a href="#" onclick="showBibMope()">bibtex</a>]
       <script>
-        function showBibMoPE() {
+        function showBibMope() {
           const bib = `@inproceedings{lin2024mope,\n
   title={Mope-clip: Structured pruning for efficient vision-language models with module-wise pruning error metric},\n
   author={Lin, Haokun and Bai, Haoli and Liu, Zhili and Hou, Lu and Sun, Muyi and Song, Linqi and Wei, Ying and Sun, Zhenan},\n
   booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},\n
   pages={27370--27380},\n
   year={2024}\n
-}
 }`;
           const newWindow = window.open("", "mope_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -111,7 +109,6 @@ author_profile: true
   author={Lin, Haokun and Wang, Teng and Ge, Yixiao and Ge, Yuying and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan and Shan, Ying},\n
   journal={arXiv preprint arXiv:2505.05422},\n
   year={2025}\n
-}
 }`;
           const newWindow = window.open("", "toklip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -142,7 +139,6 @@ author_profile: true
   author={Jiang, Yue and Lin, Haokun and Bai, Yang and Peng, Bo and Liu, Zhili and Lyu, Yueming and Yang, Yong and Dong, Jing and others},\n
   booktitle={The Thirteenth International Conference on Learning Representations},\n
   year={2025}\n
-}
 }`;
           const newWindow = window.open("", "iip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -177,7 +173,6 @@ author_profile: true
   author={Zhou, Yinan and Chen, Yuxin and Lin, Haokun and Yang, Shuyu and Zhu, Li and Qi, Zhongang and Ma, Chen and Shan, Ying},\n
   journal={arXiv preprint arXiv:2411.17125},\n
   year={2024}\n
-}
 }`;
           const newWindow = window.open("", "dogr_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -210,8 +205,6 @@ author_profile: true
   author={Zhou, Yinan and Wang, Yaxiong and Lin, Haokun and Ma, Chen and Zhu, Li and Zheng, Zhedong},\n
   journal={arXiv preprint arXiv:2504.05316},\n
   year={2025}\n
-}
-}
 }`;
           const newWindow = window.open("", "scale_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -249,7 +242,6 @@ author_profile: true
   pages={169--186},\n
   year={2024},\n
   organization={Springer}\n
-}
 }`;
           const newWindow = window.open("", "mathverse_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -281,7 +273,6 @@ author_profile: true
   title={Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models},\n
   author={Zhang, Yingtao and Bai, Haoli and Lin, Haokun and Zhao, Jialin and Hou, Lu and Cannistraci, Carlo Vittorio},\n
   booktitle={The Twelfth International Conference on Learning Representations}\n
-}
 }`;
           const newWindow = window.open("", "plug_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -314,7 +305,6 @@ author_profile: true
   author={Liu, Ruikang and Bai, Haoli and Lin, Haokun and Li, Yuening and Gao, Han and Xu, Zhengzhuo and Hou, Lu and Yao, Jun and Yuan, Chun},\n
   journal={arXiv preprint arXiv:2403.01241},\n
   year={2024}\n
-}
 }`;
           const newWindow = window.open("", "intactkv_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -350,7 +340,6 @@ author_profile: true
   author={Yang, Lianwei and Lin, Haokun and Zhao, Tianchen and Wu, Yichen and Zhu, Hongyu and Xie, Ruiqi and Sun, Zhenan and Wang, Yu and Gu, Qingyi},\n
   journal={arXiv preprint arXiv:2508.03485},\n
   year={2025}\n
-}
 }`;
           const newWindow = window.open("", "lrq_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
@@ -385,7 +374,6 @@ author_profile: true
   author={Yang, Lianwei and Gong, Haisong and Lin, Haokun and Wu, Yichen and Sun, Zhenan and Gu, Qingyi},\n
   journal={arXiv preprint arXiv:2408.03291},\n
   year={2024}\n
-}
 }`;
           const newWindow = window.open("", "dopq_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");

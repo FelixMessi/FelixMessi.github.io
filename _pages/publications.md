@@ -32,9 +32,9 @@ author_profile: true
       [<a href="https://github.com/Hsu1023/DuQuant">Github</a>]
       [<a href="https://mp.weixin.qq.com/s/lM4HeylIivW8c2o5f6J8wg">QbitAI/量子位</a>] 
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7ed_gRMZ2K8J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5kvs:AFWwaeYAAAAAZ_t_ivuNiaHr_MEN49QUocTVDlA&scisig=AFWwaeYAAAAAZ_t_isLaMkGx5aFWqySHBsqSer8&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibDuQuant()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibDuQuant() {
           const bib = `@article{lin2024duquant,\n
   title={Duquant: Distributing outliers via dual transformation makes stronger quantized llms},\n
   author={Lin, Haokun and Xu, Haobo and Wu, Yichen and Cui, Jingzhi and Zhang, Yingtao and Mou, Linzhan and Song, Linqi and Sun, Zhenan and Wei, Ying},\n
@@ -66,9 +66,9 @@ author_profile: true
       <br>
       [<a href="https://arxiv.org/pdf/2403.07839">PDF</a>]
       [<a href="https://arxiv.org/abs/2403.07839">arXiv</a>] 
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibMoPE()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibMoPE() {
           const bib = `@inproceedings{lin2024mope,\n
   title={Mope-clip: Structured pruning for efficient vision-language models with module-wise pruning error metric},\n
   author={Lin, Haokun and Bai, Haoli and Liu, Zhili and Hou, Lu and Sun, Muyi and Song, Linqi and Wei, Ying and Sun, Zhenan},\n
@@ -103,9 +103,9 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
       [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>]
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibTok()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibTok() {
           const bib = `@article{lin2025toklip,\n
   title={Toklip: Marry visual tokens to clip for multimodal comprehension and generation},\n
   author={Lin, Haokun and Wang, Teng and Ge, Yixiao and Ge, Yuying and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan and Shan, Ying},\n
@@ -134,9 +134,9 @@ author_profile: true
       <i>in 13th International Conference on Learning Representations (<b>ICLR 2025</b>)</i>. 
       <br>
       [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibIIP()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibIIP() {
           const bib = `@@inproceedings{jiang2025image,\n
   title={Image-level Memorization Detection via Inversion-based Inference Perturbation},\n
   author={Jiang, Yue and Lin, Haokun and Bai, Yang and Peng, Bo and Liu, Zhili and Lyu, Yueming and Yang, Yong and Dong, Jing and others},\n
@@ -169,9 +169,9 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2411.17125">arXiv</a>]
       [<a href="https://zyinan99.github.io/">Project</a>]
       [<a href="https://github.com/zyinan99/DOGR">Github</a>]
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibDogr()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibDogr() {
           const bib = `@article{zhou2024dogr,\n
   title={DOGR: Towards versatile visual document grounding and referring},\n
   author={Zhou, Yinan and Chen, Yuxin and Lin, Haokun and Yang, Shuyu and Zhu, Li and Qi, Zhongang and Ma, Chen and Shan, Ying},\n
@@ -202,9 +202,9 @@ author_profile: true
       <br>
       [<a href="https://openreview.net/pdf?id=vwOq7twk7L">PDF</a>]
       [<a href="https://arxiv.org/abs/2504.05316">arXiv</a>]
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibscale()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibscale() {
           const bib = `@article{zhou2025scale,\n
   title={Scale Up Composed Image Retrieval Learning via Modification Text Generation},\n
   author={Zhou, Yinan and Wang, Yaxiong and Lin, Haokun and Ma, Chen and Zhu, Li and Zheng, Zhedong},\n
@@ -239,9 +239,9 @@ author_profile: true
       [<a href="https://github.com/ZrrSkywalker/MathVerse">Github</a>]
       [<a href="https://huggingface.co/datasets/AI4Math/MathVerse">Dataset</a>]
       [<a href="https://mp.weixin.qq.com/s/gEcCi92PdMMCItFII84lcw">Synced/机器之心</a>] 
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibmath()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibmath() {
           const bib = `@inproceedings{zhang2024mathverse,\n
   title={Mathverse: Does your multi-modal llm truly see the diagrams in visual math problems?},\n
   author={Zhang, Renrui and Jiang, Dongzhi and Zhang, Yichi and Lin, Haokun and Guo, Ziyu and Qiu, Pengshuo and Zhou, Aojun and Lu, Pan and Chang, Kai-Wei and Qiao, Yu and others},\n
@@ -274,9 +274,9 @@ author_profile: true
       [<a href="https://openreview.net/pdf?id=Tr0lPx9woF">PDF</a>]
       [<a href="https://openreview.net/forum?id=Tr0lPx9woF">OpenReview</a>]
       [<a href="https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning">Github</a>]
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibRIA()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibRIA() {
           const bib = `@inproceedings{zhangplug,\n
   title={Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models},\n
   author={Zhang, Yingtao and Bai, Haoli and Lin, Haokun and Zhao, Jialin and Hou, Lu and Cannistraci, Carlo Vittorio},\n
@@ -306,9 +306,9 @@ author_profile: true
       [<a href="https://arxiv.org/pdf/2403.01241">PDF</a>]
       [<a href="https://arxiv.org/abs/2403.01241">arXiv</a>]
       [<a href="https://github.com/ruikangliu/IntactKV">Github</a>]
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibintact()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibintact() {
           const bib = `@article{liu2024intactkv,\n
   title={Intactkv: Improving large language model quantization by keeping pivot tokens intact},\n
   author={Liu, Ruikang and Bai, Haoli and Lin, Haokun and Li, Yuening and Gao, Han and Xu, Zhengzhuo and Hou, Lu and Yao, Jun and Yuan, Chun},\n
@@ -342,9 +342,9 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
       <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibLrq()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibLrq() {
           const bib = `@article{yang2025lrq,\n
   title={LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation},\n
   author={Yang, Lianwei and Lin, Haokun and Zhao, Tianchen and Wu, Yichen and Zhu, Hongyu and Xie, Ruiqi and Sun, Zhenan and Wang, Yu and Gu, Qingyi},\n
@@ -377,9 +377,9 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2408.03291">arXiv</a>]
       <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      [<a href="#" onclick="showBib()">bibtex</a>]
+      [<a href="#" onclick="showBibDopq()">bibtex</a>]
       <script>
-        function showBib() {
+        function showBibDopq() {
           const bib = `@article{yang2024dopq,\n
   title={DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers},\n
   author={Yang, Lianwei and Gong, Haisong and Lin, Haokun and Wu, Yichen and Sun, Zhenan and Gu, Qingyi},\n

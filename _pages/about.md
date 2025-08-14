@@ -80,9 +80,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   volume={37},\n
   pages={87766--87800},\n
   year={2024}\n
-}
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "duquant_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -116,7 +115,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2024}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "mope_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -151,7 +150,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2025}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "toklip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -183,7 +182,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2025}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "iip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -218,7 +217,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2024}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "dogr_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -258,7 +257,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   organization={Springer}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "mathverse_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -291,7 +290,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   booktitle={The Twelfth International Conference on Learning Representations}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "plug_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -326,7 +325,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2024}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "intactkv_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -362,7 +361,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
   year={2025}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "lrq_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>

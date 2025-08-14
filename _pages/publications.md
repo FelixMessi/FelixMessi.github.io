@@ -44,7 +44,7 @@ author_profile: true
   year={2024}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "duquant_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -77,7 +77,7 @@ author_profile: true
   year={2024}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "mope_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -113,7 +113,7 @@ author_profile: true
   year={2025}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "toklip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -144,7 +144,7 @@ author_profile: true
   year={2025}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "iip_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -179,7 +179,7 @@ author_profile: true
   year={2024}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "dogr_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -213,7 +213,7 @@ author_profile: true
 }
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "scale_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -251,7 +251,7 @@ author_profile: true
   organization={Springer}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "mathverse_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -283,7 +283,7 @@ author_profile: true
   booktitle={The Twelfth International Conference on Learning Representations}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "plug_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -316,7 +316,7 @@ author_profile: true
   year={2024}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "intactkv_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -352,7 +352,7 @@ author_profile: true
   year={2025}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "lrq_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>
@@ -387,7 +387,7 @@ author_profile: true
   year={2024}\n
 }
 }`;
-          const newWindow = window.open("", "_bibtex");
+          const newWindow = window.open("", "dopq_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>

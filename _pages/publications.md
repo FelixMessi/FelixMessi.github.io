@@ -59,6 +59,29 @@ author_profile: true
     </td> -->
   </tr>
 
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation.
+      </b> 
+      <br>
+      <u>Haokun Lin*</u>, Teng Wang*, Yixiao Ge^, Yuying Ge, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun, Ying Shan,
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
+      [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
+      [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
+      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>]
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>Image-level Memorization Detection via Inversion-based Inference Perturbation.</b> 
@@ -174,6 +197,51 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2403.01241">arXiv</a>]
       [<a href="https://github.com/ruikangliu/IntactKV">Github</a>]
       [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:OkR9s_hreeMJ:scholar.google.com/&output=citation&scisdr=ClGb7WsaEJj5ikSGj3E:AFWwaeYAAAAAZ_uAl3ANRYJrWIPbZDlX9sxIqRs&scisig=AFWwaeYAAAAAZ_uAl8u3S96pRNoUs-tFPU9b4mI&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation.</b>
+      <br>
+      Lianwei Yang*, <u>Haokun Lin*</u>, Tianchen Zhao*, Yichen Wu, Hongyu Zhu, Ruiqi Xie, Zhenan Sun, Yu Wang, Qingyi Gu,
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
+      [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
+      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
+      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qogzKLWPyMUJ:scholar.google.com/&output=citation&scisdr=CgJucTIPEP3LnlmuTwA:AAZF9b8AAAAAaJ2oVwCtZ_4Xy-aVbQWsehtAOBY&scisig=AAZF9b8AAAAAaJ2oV1u8g8mGP88KMEVjMC6YYpw&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers.</b>
+      <br>
+      Lianwei Yang*, Haisong Gong*, <u>Haokun Lin*</u>, Yichen Wu, Zhenan Sun, Liang Wang, Qingyi Gu,
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2408.03291">PDF</a>]
+      [<a href="https://arxiv.org/abs/2408.03291">arXiv</a>]
+      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
+      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:hjUx9US2ziQJ:scholar.google.com/&output=citation&scisdr=CgJucTIeEJXbnlmp4Q0:AAZF9b8AAAAAaJ2v-Q3QOHYGHbwkSzLuhRjzSI0&scisig=AAZF9b8AAAAAaJ2v-YZJFXXmQ57IvKwZPmQF72E&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
     </td>
     <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/.png">

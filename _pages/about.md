@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-I'm a Ph.D. candidate at [New Laboratory of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/) under the supervision of [Prof. Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/). I'm also a joint Ph.D. candidate at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/), working with [Prof. Ying Wei](https://wei-ying.net/). 
+I'm a Ph.D. candidate at [New Laboratory of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/en/EN/volumn/home.shtml), [Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/) under the supervision of [Prof. Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/). I'm also a joint Ph.D. candidate at [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/), working with [Prof. Ying Wei](https://wei-ying.net/) and [Prof. Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en). 
 Before joining CASIA, I received my B.Eng. in Software Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2021.
  
 
@@ -26,6 +26,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
+  <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICCV'25:</b> "DOGR: Towards Versatile Visual Document Grounding and Referring." [<a href="https://github.com/zyinan99/DOGR">Code</a>/<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[05/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation." [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[02/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">TMM:</b> "Scale Up Composed Image Retrieval Learning via Modification Text Generatio." [<a href="https://arxiv.org/pdf/2504.05316">PDF</a>]</li>
@@ -67,7 +68,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       [<a href="https://duquant.github.io/">Project</a>]
       [<a href="https://github.com/Hsu1023/DuQuant">Github</a>]
       [<a href="https://mp.weixin.qq.com/s/lM4HeylIivW8c2o5f6J8wg">QbitAI/量子位</a>] 
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7ed_gRMZ2K8J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5kvs:AFWwaeYAAAAAZ_t_ivuNiaHr_MEN49QUocTVDlA&scisig=AFWwaeYAAAAAZ_t_isLaMkGx5aFWqySHBsqSer8&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+      <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:7ed_gRMZ2K8J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikR5kvs:AFWwaeYAAAAAZ_t_ivuNiaHr_MEN49QUocTVDlA&scisig=AFWwaeYAAAAAZ_t_isLaMkGx5aFWqySHBsqSer8&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a> -->
+      [<a href="./_bib/DuQuant.bib" download>bibtex</a>]
     </td>
   </tr>
 
@@ -129,6 +131,28 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
     </td>
   </tr>
 
+
+  <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation.</b> 
+      <br>
+      Lianwei Yang*, <u>Haokun Lin*</u>, Tianchen Zhao*, Yichen Wu, Hongyu Zhu, Ruiqi Xie, Zhenan Sun, Yu Wang, Qingyi Gu,
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
+      [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
+      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
+      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qogzKLWPyMUJ:scholar.google.com/&output=citation&scisdr=CgJucTIPEP3LnlmuTwA:AAZF9b8AAAAAaJ2oVwCtZ_4Xy-aVbQWsehtAOBY&scisig=AAZF9b8AAAAAaJ2oV1u8g8mGP88KMEVjMC6YYpw&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
+    </td>
+  </tr>
+
   <tr>
     <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <a href="images/.png">
@@ -138,7 +162,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
        <b>DOGR: Towards Versatile Visual Document Grounding and Referring.</b> 
       <br>
-      Yinan Zhou*, Yuxin Chen*, <u>Haokun Lin</u>, Yichen Wu, Shuyu Yang, Zhongang Qi, Chen Ma, Li Zhu, Ying Shan.
+      Yinan Zhou*, Yuxin Chen*, <u>Haokun Lin</u>, Yichen Wu, Shuyu Yang, Zhongang Qi, Chen Ma, Li Zhu, Ying Shan,
       <br>
       <i>in IEEE / CVF International Conference on Computer Vision 2025 (<b>ICCV 2025</b>)</i>. 
       <br>
@@ -149,6 +173,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DjTyjQjmnM0J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGpKM:AFWwaeYAAAAAZ_uAvKMkwoXdxdqDzpd4Arf1M7c&scisig=AFWwaeYAAAAAZ_uAvBdls6PmZoUbq32URrRMRPg&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
     </td>
   </tr>
+
 
   <tr>
     <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
@@ -207,8 +232,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       <i>in Findings of 62nd Annual Meeting of the Association for Computational Linguistics (<b>ACL 2024 Findings</b>)</i>
       <br>
-      [<a href="https://arxiv.org/pdf/2403.01241">PDF</a>]
-      [<a href="https://arxiv.org/abs/2403.01241">arXiv</a>]
+      [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]
+      [<a href="https://www.arxiv.org/abs/2508.03485">arXiv</a>]
       [<a href="https://github.com/ruikangliu/IntactKV">Github</a>]
       [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:OkR9s_hreeMJ:scholar.google.com/&output=citation&scisdr=ClGb7WsaEJj5ikSGj3E:AFWwaeYAAAAAZ_uAl3ANRYJrWIPbZDlX9sxIqRs&scisig=AFWwaeYAAAAAZ_uAl8u3S96pRNoUs-tFPU9b4mI&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>]
     </td>

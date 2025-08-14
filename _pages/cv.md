@@ -13,7 +13,7 @@ redirect_from:
 ## Education
 
 * Ph.D. in Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), 2022 - present
-  * Supervisor: Prof. [Ying Wei](https://wei-ying.net/)
+  * Supervisor: Prof. [Ying Wei](https://wei-ying.net/) and Prof. [Zhichao Lu](https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en)
 * Ph.D. in Computer Science, [Institute of Automation, Chinese Academy of Sciences](https://english.ia.cas.cn/), 2021 - present
   * Supervisor: Prof. [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/)
 * B.Eng. in Software Engineering, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), 2017 - 2021

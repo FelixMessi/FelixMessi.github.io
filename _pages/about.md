@@ -339,8 +339,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       <i>Preprint.</i>
       <br>
-      [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
-      [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
+      [<a href="https://arxiv.org/pdf/2508.03485">PDF</a>]
+      [<a href="https://arxiv.org/abs/2508.03485">arXiv</a>]
       <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qogzKLWPyMUJ:scholar.google.com/&output=citation&scisdr=CgJucTIPEP3LnlmuTwA:AAZF9b8AAAAAaJ2oVwCtZ_4Xy-aVbQWsehtAOBY&scisig=AAZF9b8AAAAAaJ2oV1u8g8mGP88KMEVjMC6YYpw&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->

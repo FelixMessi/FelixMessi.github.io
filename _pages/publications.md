@@ -328,8 +328,8 @@ author_profile: true
       <br>
       <i>Preprint.</i>
       <br>
-      [<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]
-      [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
+      [<a href="https://arxiv.org/pdf/2508.03485">PDF</a>]
+      [<a href="https://arxiv.org/abs/2508.03485">arXiv</a>]
       <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
       [<a href="#" onclick="showBibLrq()">bibtex</a>]

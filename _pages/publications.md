@@ -319,6 +319,40 @@ author_profile: true
   </tr>
 
 
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs.
+       </b> 
+      <br>
+      <u>Haokun Lin*</u>, Haobo Xu*, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]
+      [<a href="https://arxiv.org/abs/2508.14896">arXiv</a>]
+      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>] -->
+      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      [<a href="#" onclick="showBibQDLM()">bibtex</a>]
+      <script>
+        function showBibQDLM() {
+          const bib = `@article{lin2025quantization,\n
+  title={Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs},\n
+  author={Lin, Haokun and Xu, Haobo and Wu, Yichen and Guo, Ziyu and Zhang, Renrui and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan},\n
+  journal={arXiv preprint arXiv:2508.14896},\n
+  year={2025}\n
+}`;
+          const newWindow = window.open("", "qdlm_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">

@@ -101,6 +101,7 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2505.05422">arXiv</a>]
       [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
       [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>]
+      [<a href="https://mp.weixin.qq.com/s/o9nXvLmpZ9gTtGTmZsQIRQ">QbitAI/量子位</a>] 
       [<a href="#" onclick="showBibTok()">bibtex</a>]
       <script>
         function showBibTok() {

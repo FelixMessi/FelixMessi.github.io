@@ -26,7 +26,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 <div style="height: 350px; overflow: auto; border: 1px solid #ccc; margin: 15px;">
 
 <ul>
-  <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li>
+  <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/FelixMessi/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[08/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation." [<a href="https://www.arxiv.org/pdf/2508.03485">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[06/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ICCV'25:</b> "DOGR: Towards Versatile Visual Document Grounding and Referring." [<a href="https://github.com/zyinan99/DOGR">Code</a>/<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[05/2025]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation." [<a href="https://github.com/TencentARC/TokLIP">Code</a>/<a href="https://arxiv.org/pdf/2505.05422">PDF</a>]</li>
@@ -343,7 +343,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       [<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]
       [<a href="https://arxiv.org/abs/2508.14896">arXiv</a>]
-      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>] -->
+      [<a href="https://github.com/FelixMessi/QDLM">Github</a>]
       <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:2jh9qMaPVHgJ:scholar.google.com/&output=citation&scisdr=CgJucTIaELH0-YZ6j7Q:AAZF9b8AAAAAaER8l7RVHkiAdDbJTnz4PHg6yzY&scisig=AAZF9b8AAAAAaER8l7zmvc2_dhPOTNHwlrwvm-Y&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
       [<a href="#" onclick="showBibQDLM()">bibtex</a>]

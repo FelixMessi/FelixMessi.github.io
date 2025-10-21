@@ -331,7 +331,7 @@ author_profile: true
       <br>
       [<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]
       [<a href="https://arxiv.org/abs/2508.14896">arXiv</a>]
-      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>] -->
+      [<a href="https://github.com/FelixMessi/QDLM">Github</a>]
       <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
       [<a href="#" onclick="showBibQDLM()">bibtex</a>]
       <script>

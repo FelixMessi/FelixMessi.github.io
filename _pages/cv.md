@@ -22,6 +22,8 @@ redirect_from:
 
 
 ## Honors and Awards
+- *2025.11*  National Scholarship, UCAS, Gradeduate Students.
+- *2025.06*  First prize, UCAS Excellent Graduate Scholarship.
 - *2024.12*  First Prize, 2024 Graduate Academic Forum, University of Chinese Academy of Sciences.
 - *2024.11*  NeurIPS 2024 Top Reviewer Award.
 - *2021.06*  Honorary degree of HUST, Top 2%, Highest Honour for Undergraduate.

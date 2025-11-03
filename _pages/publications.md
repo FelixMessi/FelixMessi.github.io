@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### See full list at [Google Scholar](https://scholar.google.com/citations?user=7DnpUlIAAAAJ). ($\*$: co-first author;  ^: corresponding author)
+### See full list at [Google Scholar](https://scholar.google.com/citations?user=7DnpUlIAAAAJ). ($\*$: co-first author;  ^: corresponding author; #: project leader)
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
@@ -343,6 +343,41 @@ author_profile: true
   year={2025}\n
 }`;
           const newWindow = window.open("", "qdlm_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts.
+       </b> 
+      <br>
+      <u>Shujun Xia*, <u>Haokun Lin#*</u>, Yichen Wu^, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li^
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2510.13500">PDF</a>]
+      [<a href="https://arxiv.org/abs/2510.13500">arXiv</a>]
+      [<a href="https://github.com/mylittleriver/MedREK">Github</a>]
+      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      [<a href="#" onclick="showBibQDLM()">bibtex</a>]
+      <script>
+        function showBibMedRek() {
+          const bib = `@article{xia2025medrek,\n
+  title={MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts},\n
+  author={Xia, Shujun and Lin, Haokun and Wu, Yichen and Zhou, Yinan and Li, Zixuan and Wan, Zhongwei and Xing, Xingrun and Zheng, Yefeng and Li, Xiang and Shan, Caifeng and others},\n
+  journal={arXiv preprint arXiv:2510.13500},\n
+  year={2025}\n
+}`;
+          const newWindow = window.open("", "medrek_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>

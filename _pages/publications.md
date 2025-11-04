@@ -360,7 +360,7 @@ author_profile: true
        <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts.
        </b> 
       <br>
-      <u>Shujun Xia*, <u>Haokun Lin#*</u>, Yichen Wu^, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li^
+      Shujun Xia*, <u>Haokun Lin#*</u>, Yichen Wu^, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li^
       <br>
       <i>Preprint.</i>
       <br>
@@ -368,7 +368,7 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2510.13500">arXiv</a>]
       [<a href="https://github.com/mylittleriver/MedREK">Github</a>]
       <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      [<a href="#" onclick="showBibQDLM()">bibtex</a>]
+      [<a href="#" onclick="showBibMedRek()">bibtex</a>]
       <script>
         function showBibMedRek() {
           const bib = `@article{xia2025medrek,\n

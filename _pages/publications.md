@@ -360,9 +360,9 @@ author_profile: true
        <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts.
        </b> 
       <br>
-      Shujun Xia*, <u>Haokun Lin#*</u>, Yichen Wu^, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li^
+      Shujun Xia*, <u>Haokun Lin#*</u>, Yichen Wu^, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li^,
       <br>
-      <i>Preprint.</i>
+      <i>in ResponsibleFM @ NeurIPS 2025.</i>
       <br>
       [<a href="https://arxiv.org/pdf/2510.13500">PDF</a>]
       [<a href="https://arxiv.org/abs/2510.13500">arXiv</a>]

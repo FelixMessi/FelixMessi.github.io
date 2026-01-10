@@ -418,8 +418,8 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       [<a href="https://arxiv.org/pdf/2508.03485">PDF</a>]
       [<a href="https://arxiv.org/abs/2508.03485">arXiv</a>]
-      <!-- [<a href="https://github.com/TencentARC/TokLIP">Github</a>]
-      [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      [<a href="https://github.com/yanglianwei/LRQ-DiT">Github</a>]
+      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qogzKLWPyMUJ:scholar.google.com/&output=citation&scisdr=CgJucTIPEP3LnlmuTwA:AAZF9b8AAAAAaJ2oVwCtZ_4Xy-aVbQWsehtAOBY&scisig=AAZF9b8AAAAAaJ2oV1u8g8mGP88KMEVjMC6YYpw&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
       [<a href="#" onclick="showBibLrq()">bibtex</a>]
       <script>
@@ -454,11 +454,13 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 # 🎖 Services
 - Invited Reviewer:
-  - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026.
+  - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026, ICML'2026.
   - ICDE'2025, ICML'2025, ACL'2025 Feb ARR, ICCV'2025, NeurIPS'2025.
   - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025.
   <!-- - AIM-FM workshop@NeurIPS'2024. -->
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+  - IEEE Transactions on Multimedia (TMM).
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
   - Transactions on Machine Learning Research (TMLR).
 - Teaching Assistant:
   - CityU, [CS1302 Introduction to Computer Programming](https://www.cityu.edu.hk/catalogue/ug/202021/course/CS1302.htm), 2025 Spring.

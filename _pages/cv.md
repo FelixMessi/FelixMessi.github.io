@@ -34,11 +34,13 @@ redirect_from:
 
 ## Services
 - Invited Reviewer:
-  - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026.
+  - AAAI'2026, ICLR'2026, AISTATS'2026, CVPR'2026, ICML'2026.
   - ICDE'2025, ICML'2025, ACL'2025 Feb ARR, ICCV'2025, NeurIPS'2025.
   - EMNLP'2023, NeurIPS'2024, ICLR'2025, CVPR'2025, AISTATS'2025.
   <!-- - AIM-FM workshop@NeurIPS'2024. -->
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+  - IEEE Transactions on Multimedia (TMM).
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
   - Transactions on Machine Learning Research (TMLR).
 - Teaching Assistant:
   - CityU, [CS1302 Introduction to Computer Programming](https://www.cityu.edu.hk/catalogue/ug/202021/course/CS1302.htm), 2025 Spring.

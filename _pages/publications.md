@@ -123,6 +123,76 @@ author_profile: true
     </td> -->
   </tr>
 
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs.
+       </b> 
+      <br>
+      <u>Haokun Lin*</u>, Haobo Xu*, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun
+      <br>
+      <i>in Machine Intelligence Research, 2025.</i>
+      <br>
+      [<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]
+      [<a href="https://arxiv.org/abs/2508.14896">arXiv</a>]
+      [<a href="https://github.com/FelixMessi/QDLM">Github</a>]
+      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
+      [<a href="#" onclick="showBibQDLM()">bibtex</a>]
+      <script>
+        function showBibQDLM() {
+          const bib = `@article{lin2025quantization,\n
+  title={Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs},\n
+  author={Lin, Haokun and Xu, Haobo and Wu, Yichen and Guo, Ziyu and Zhang, Renrui and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan},\n
+  journal={arXiv preprint arXiv:2508.14896},\n
+  year={2025}\n
+}`;
+          const newWindow = window.open("", "qdlm_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>Efficient Diffusion Language Models: A Comprehensive Survey.
+       </b> 
+      <br>
+      <u>Haokun Lin*#</u>, Xinle Jia*, Shaozhen Liu*, Shujun Xia*,Weitao Huang*, Haobo Xu, Junyang Li, Yicheng Xiao, Xingrun Xing, Ziyu Guo, Renrui Zhang, Qi Li, Yichen Wu, Renzhen Wang, Xiaojuan Qi, Caifeng Shan, Hongsheng Li, Zhenan Sun,
+      <br>
+      <i>Preprint.</i>
+      <br>
+      [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]
+      [<a href="https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey">TechXriv</a>]
+      [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">Github</a>]
+      [<a href="#" onclick="showBibSurvey()">bibtex</a>]
+      <script>
+        function showBibSurvey() {
+          const bib = `@article{lin2026efficient,\n
+  title={Efficient Diffusion Language Models: A Comprehensive Survey},\n
+  author={Lin, Haokun and Jia, Xinle and Liu, Shaozhen and Xia, Shujun and Huang, Weitao and Xu, Haobo and Li, Junyang and Xiao, Yicheng and Xing, Xingrun and Guo, Ziyu and others},\n
+  journal={Authorea Preprints},\n
+  year={2026}\n
+  publisher={Authorea}\n
+}`;
+          const newWindow = window.open("", "qdlm_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>Image-level Memorization Detection via Inversion-based Inference Perturbation.</b> 
@@ -308,41 +378,6 @@ author_profile: true
   year={2024}\n
 }`;
           const newWindow = window.open("", "intactkv_bibtex");
-          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
-        }
-      </script>
-    </td>
-    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/.png">
-      <img src='/images/.png' width="300">
-      </a>
-    </td> -->
-  </tr>
-
-
-  <tr>
-    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-       <b>Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs.
-       </b> 
-      <br>
-      <u>Haokun Lin*</u>, Haobo Xu*, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun
-      <br>
-      <i>Preprint.</i>
-      <br>
-      [<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]
-      [<a href="https://arxiv.org/abs/2508.14896">arXiv</a>]
-      [<a href="https://github.com/FelixMessi/QDLM">Github</a>]
-      <!-- [<a href="https://huggingface.co/TencentARC/TokLIP">HuggingFace</a>] -->
-      [<a href="#" onclick="showBibQDLM()">bibtex</a>]
-      <script>
-        function showBibQDLM() {
-          const bib = `@article{lin2025quantization,\n
-  title={Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs},\n
-  author={Lin, Haokun and Xu, Haobo and Wu, Yichen and Guo, Ziyu and Zhang, Renrui and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan},\n
-  journal={arXiv preprint arXiv:2508.14896},\n
-  year={2025}\n
-}`;
-          const newWindow = window.open("", "qdlm_bibtex");
           newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
         }
       </script>

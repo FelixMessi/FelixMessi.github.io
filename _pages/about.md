@@ -172,7 +172,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
        <b>Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs.</b> 
       <br>
-      <u>Haokun Lin*</u>, Haobo Xu*, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun
+      <u>Haokun Lin*</u>, Haobo Xu*, Yichen Wu, Ziyu Guo, Renrui Zhang, Zhichao Lu, Ying Wei, Qingfu Zhang, Zhenan Sun,
       <br>
       <i>in Machine Intelligence Research, 2025.</i>
       <br>
@@ -207,7 +207,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
     <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
        <b>Efficient Diffusion Language Models: A Comprehensive Survey.</b> 
       <br>
-      <u>Haokun Lin*#</u>, Xinle Jia*, Shaozhen Liu*, Shujun Xia*,Weitao Huang*, Haobo Xu, Junyang Li, Yicheng Xiao, Xingrun Xing, Ziyu Guo, Renrui Zhang, Qi Li, Yichen Wu, Renzhen Wang, Xiaojuan Qi, Caifeng Shan, Hongsheng Li, Zhenan Sun,
+      <u>Haokun Lin*#</u>, Xinle Jia*, Shaozhen Liu*, Shujun Xia*, Weitao Huang*, Haobo Xu, Junyang Li, Yicheng Xiao, Xingrun Xing, Ziyu Guo, Renrui Zhang, Qi Li, Yichen Wu, Renzhen Wang, Xiaojuan Qi, Caifeng Shan, Hongsheng Li, Zhenan Sun,
       <br>
       <i>Preprint.</i>
       <br>

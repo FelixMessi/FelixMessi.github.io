@@ -226,6 +226,39 @@ author_profile: true
 
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models.</b>
+      <br>
+      Jingxuan Zhang*, Yunta Hsieh*, Zhongwei Wan, <u>Haokun Lin</u>, Xin Wang, Ziqi Wang, Yingtie Lei, Mi Zhang.
+      <br>
+      <i>in IEEE / CVF Computer Vision and Pattern Recognition Conference 2026 (<b>CVPR 2026</b>)</i>. 
+      <br>
+      [<a href="https://arxiv.org/pdf/2602.20309">PDF</a>]
+      [<a href="https://arxiv.org/abs/2602.20309">arXiv</a>]
+      [<a href="https://quantvla.github.io/">Project</a>]
+      [<a href="https://github.com/AIoT-MLSys-Lab/QuantVLA">Github</a>]
+      [<a href="#" onclick="showBibQuantVLA()">bibtex</a>]
+      <script>
+        function showBibQuantVLA() {
+          const bib = `@zhang2026quantvla,\n
+  title={QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models},\n
+  author={Zhang, Jingxuan and Hsieh, Yunta and Wang, Zhongwei and Lin, Haokun and Wang, Xin and Wang, Ziqi and Lei, Yingtie and Zhang, Mi},\n
+  journal={arXiv preprint arXiv:2602.20309},\n
+  year={2026}\n
+}`;
+          const newWindow = window.open("", "dogr_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+    <!-- <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/.png">
+      <img src='/images/.png' width="300">
+      </a>
+    </td> -->
+  </tr>
+
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>DOGR: Towards Versatile Visual Document Grounding and Referring.</b>
       <br>
       Yinan Zhou*, Yuxin Chen*, <u>Haokun Lin</u>, Yichen Wu, Shuyu Yang, Zhongang Qi, Chen Ma, Li Zhu, Ying Shan.
@@ -234,7 +267,7 @@ author_profile: true
       <br>
       [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]
       [<a href="https://arxiv.org/abs/2411.17125">arXiv</a>]
-      [<a href="https://zyinan99.github.io/">Project</a>]
+      <!-- [<a href="https://zyinan99.github.io/">Project</a>] -->
       [<a href="https://github.com/zyinan99/DOGR">Github</a>]
       [<a href="#" onclick="showBibDogr()">bibtex</a>]
       <script>

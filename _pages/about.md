@@ -27,6 +27,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
 
 <ul>
   <!-- <li><strong style="font-family: Consolas;">[11/2024]</strong>  🛫 <b style="color: rgb(231, 165, 65);">Travel:</b> I will attend EMNLP 2025 in Suzhou from Nov 4–9 — happy to meet and chat over coffee!</li> -->
+  <li><strong style="font-family: Consolas;">[02/2026]</strong>  🎉 <b style="color: rgb(231, 165, 65);">CVPR'26:</b> "QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models." [<a href="https://github.com/AIoT-MLSys-Lab/QuantVLA">Code</a>/<a href="https://arxiv.org/pdf/2602.20309">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[01/2026]</strong>  📜 <b style="color: rgb(231, 165, 65);">Preprint:</b> "Efficient Diffusion Language Models: A Comprehensive Survey." [<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">Repo</a>/<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">MIR:</b> "Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs." [<a href="https://github.com/FelixMessi/QDLM">Code</a>/<a href="https://arxiv.org/pdf/2508.14896">PDF</a>]</li>
   <li><strong style="font-family: Consolas;">[11/2025]</strong>  🎉 <b style="color: rgb(231, 165, 65);">ResponsibleFM @ NeurIPS 2025:</b> "MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts." [<a href="https://github.com/mylittleriver/MedREK">Code</a>/<a href="https://arxiv.org/abs/2510.13500">PDF</a>]</li>
@@ -265,7 +266,41 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
     </td>
   </tr>
 
+
   <tr>
+    <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
+      <a href="images/.png">
+      <img src='images/.png' width="300">
+      </a>
+    </td> -->
+    <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+       <b>QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models.</b> 
+      <br>
+      Jingxuan Zhang*, Yunta Hsieh*, Zhongwei Wan, <u>Haokun Lin</u>, Xin Wang, Ziqi Wang, Yingtie Lei, Mi Zhang,
+      <br>
+      <i>in IEEE / CVF Computer Vision and Pattern Recognition Conference 2026 (<b>CVPR 2026</b>)</i>. 
+      <br>
+      [<a href="https://arxiv.org/pdf/2602.20309">PDF</a>]
+      [<a href="https://arxiv.org/abs/2602.20309">arXiv</a>]
+      [<a href="https://quantvla.github.io/">Project</a>]
+      [<a href="https://github.com/AIoT-MLSys-Lab/QuantVLA">Github</a>]
+      [<a href="#" onclick="showBibQuantVLA()">bibtex</a>]
+      <script>
+        function showBibQuantVLA() {
+          const bib = `@zhang2026quantvla,\n
+  title={QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models},\n
+  author={Zhang, Jingxuan and Hsieh, Yunta and Wang, Zhongwei and Lin, Haokun and Wang, Xin and Wang, Ziqi and Lei, Yingtie and Zhang, Mi},\n
+  journal={arXiv preprint arXiv:2602.20309},\n
+  year={2026}\n
+}`;
+          const newWindow = window.open("", "dogr_bibtex");
+          newWindow.document.write("<pre style='font-family: monospace; padding: 20px;'>" + bib + "</pre>");
+        }
+      </script>
+    </td>
+  </tr>
+
+ <tr>
     <!-- <td style="padding:8px;width:30%;vertical-align:middle;border:none;">
       <a href="images/.png">
       <img src='images/.png' width="300">
@@ -280,7 +315,7 @@ My research interests include **<u>Multi-modal Learning</u>**, **<u>Large Langua
       <br>
       [<a href="https://arxiv.org/pdf/2411.17125">PDF</a>]
       [<a href="https://arxiv.org/abs/2411.17125">arXiv</a>]
-      [<a href="https://zyinan99.github.io/">Project</a>]
+      <!-- [<a href="https://zyinan99.github.io/">Project</a>] -->
       [<a href="https://github.com/zyinan99/DOGR">Github</a>]
       <!-- [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:DjTyjQjmnM0J:scholar.google.com/&output=citation&scisdr=ClGb7WsHEJj5ikSGpKM:AFWwaeYAAAAAZ_uAvKMkwoXdxdqDzpd4Arf1M7c&scisig=AFWwaeYAAAAAZ_uAvBdls6PmZoUbq32URrRMRPg&scisf=4&ct=citation&cd=-1&hl=en">bibtex</a>] -->
       [<a href="#" onclick="showBibDogr()">bibtex</a>]
